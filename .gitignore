@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+dist/
+build/
+.next/
+out/
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.test
+.env.production
+.env.local
+
+# Vercel
+.vercel/
+
+# Assignment specific ignore files
+seed.js
+backend/delete.js
+assignment.md
+brain/
