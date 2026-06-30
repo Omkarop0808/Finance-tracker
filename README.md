@@ -3,7 +3,7 @@
 A complete full-stack Finance Portfolio Tracker application.
 
 ## Tech Stack
-- **Backend**: NestJS (Node.js), TypeScript, PostgreSQL, TypeORM, JWT Auth
+- **Backend**: NestJS (Node.js), TypeScript, PostgreSQL, TypeORM, JWT Auth,Neon DB
 - **Frontend**: Next.js (App Router), TypeScript, Tailwind CSS v4, Framer Motion, React Hook Form, Zod
 - **Infrastructure**: Docker & Docker Compose
 
